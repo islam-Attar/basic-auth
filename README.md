@@ -25,6 +25,6 @@ required the user's model and the sequlize with the datatypes.
 
 
 ## Links :
-* [heroku app]()
-* [pull request link]()
-* [ Actions link]()
+* [heroku app](https://islam-basic-auth.herokuapp.com/)
+* [pull request link](https://github.com/islam-Attar/basic-auth/pull/2)
+* [ Actions link](https://github.com/islam-Attar/basic-auth/actions)
