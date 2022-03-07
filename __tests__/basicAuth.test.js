@@ -38,7 +38,7 @@ describe('testing post requests ',()=>{
         expect(response.status).toBe(500);
     })
     it('testing wrong username (status 500)',async()=>{
-        const response = await request.post('/signin').auth('wrongusername','12345');
+        const response = await request.post('/signin').auth('wrongusername','islam123');
         expect(response.status).toBe(500);
     })
     
