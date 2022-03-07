@@ -12,7 +12,7 @@ const bcrypt = require('bcrypt');
 
 routers.post('/signin',basicAuth,(req,res)=>{
 
-    res.status(200).json(req.User);
+    res.status(200).json(req.userName);
 })
 
 
